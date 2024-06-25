@@ -2,7 +2,7 @@
 
 # Countries_API
 
-_Website design project using API_
+_Website project using API_
 
 <br>
 
