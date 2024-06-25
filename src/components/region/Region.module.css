@@ -1,0 +1,14 @@
+.region {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.regionTitle {
+    font-size: 1.3rem;
+}
+.countryList {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}

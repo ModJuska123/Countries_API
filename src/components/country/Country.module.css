@@ -1,0 +1,16 @@
+.country {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem 2rem 0.5rem 1rem;
+    border: 1px solid #ccc;
+    box-shadow: 0 0.1rem 0.4rem #0003;
+}
+.flag {
+    width: 4rem;
+    height: 3rem;
+    background-color: #ccc;
+}
+.countryName {
+    font-size: 1rem;
+}
